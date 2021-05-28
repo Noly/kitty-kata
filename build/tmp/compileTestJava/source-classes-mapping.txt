@@ -1,0 +1,10 @@
+codewars/detectPangram.java
+ codewars.detectPangram
+codewars/findOdd.java
+ codewars.findOdd
+codewars/twoToOne.java
+ codewars.twoToOne
+codewars/chainableNumbers.java
+ codewars.chainableNumbers
+codewars/populationGrowth.java
+ codewars.populationGrowth
